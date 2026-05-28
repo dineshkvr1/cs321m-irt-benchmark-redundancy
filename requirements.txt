@@ -1,0 +1,10 @@
+torch==2.1.0
+numpy==1.24.4
+scipy==1.10.1
+matplotlib==3.7.5
+pandas==2.0.3
+scikit-learn==1.3.2
+sentence-transformers==2.2.2
+datasets==2.16.1
+huggingface-hub==0.20.3
+seaborn==0.13.2
